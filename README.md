@@ -255,7 +255,7 @@ npm run release
 
 ## Full API reference and usage guide
 
-See [TUTORIAL.md](./TUTORIAL.md).
+
 
 ---
 
