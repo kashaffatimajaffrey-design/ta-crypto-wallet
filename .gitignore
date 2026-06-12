@@ -1,0 +1,10 @@
+node_modules/
+dist/
+*.log
+*.map
+
+# compiled outputs inside your project
+ta-crypto-main/**/*.js
+ta-crypto-main/**/*.d.ts
+ta-crypto-main/**/*.js.map
+ta-crypto-main/**/*.d.ts.map
