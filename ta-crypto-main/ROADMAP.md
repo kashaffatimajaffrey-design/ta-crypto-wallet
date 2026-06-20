@@ -1,6 +1,6 @@
 # Roadmap
 
-This roadmap is intentionally short and contribution-oriented.
+This roadmap is short and easy to follow.
 
 ## Released
 
