@@ -233,7 +233,7 @@ import { createSMA, createRSI }        from "ta-crypto/stateful";
 
 If you use it, improve it. If you miss something, build it. If you're learning, this is a solid codebase to practice financial math.
 
-Start with [CONTRIBUTING.md](./CONTRIBUTING.md) and [ROADMAP.md](./ROADMAP.md). Fastest way in: pick an indicator from the roadmap, implement it, and add tests comparing against TA-Lib.
+Start with [ROADMAP.md](./ROADMAP.md). Fastest way in: pick an indicator from the roadmap, implement it, and add tests comparing against TA-Lib.
 
 ---
 
