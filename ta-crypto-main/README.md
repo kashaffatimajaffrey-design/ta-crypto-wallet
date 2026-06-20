@@ -32,11 +32,7 @@ npm i ta-crypto
 
 See [TUTORIAL.md](./TUTORIAL.md) for the complete API reference, input formats, compatibility matrix, and benchmarks.
 
----
 
-## Contributing
-
-If you use it, improve it. Start with [CONTRIBUTING.md](./CONTRIBUTING.md) and [ROADMAP.md](./ROADMAP.md).
 
 ---
 
