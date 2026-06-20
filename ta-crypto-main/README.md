@@ -26,12 +26,6 @@ npm i ta-crypto
 
 **Production examples** — including a signal-gated mobile money payout via Flutterwave: RSI + volatility regime fires a USDC → M-Pesa KES transfer with HMAC webhook verification and audit logging. See `examples/flutterwave-signal.ts`.
 
----
-
-## Full docs
-
-See [TUTORIAL.md](./TUTORIAL.md) for the complete API reference, input formats, compatibility matrix, and benchmarks.
-
 
 
 ---
