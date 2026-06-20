@@ -22,8 +22,3 @@ This roadmap is short and easy to follow.
 3. Improve benchmark depth (larger datasets and scenario-based runs).
 4. Add production-grade examples and strategy playbooks.
 
-## How to contribute against roadmap
-
-1. Pick one item.
-2. Open or claim a guided issue.
-3. Ship code + tests + short benchmark/docs update.
